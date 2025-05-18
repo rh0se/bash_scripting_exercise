@@ -74,8 +74,4 @@ chmod +x findfile.sh count_file.sh
 ./findfile.sh my_script.sh
 ./count_file.sh /etc
 ```
-
 ---
-
-## Author
-AltSchool Cloud Engineering Student
